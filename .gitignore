@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+
+# ROS build files
+build/
+devel/
+
+# Virtual environment
+.deep/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# pyenv
+.python-version
+
+#python files
+deepFace.py
+
+#folders
+faceData/
+deepface/
+
